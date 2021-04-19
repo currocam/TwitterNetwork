@@ -14,8 +14,13 @@ Then, using R we characterize that connection between user 1 and user 2; and vis
 ## Network's visualization examples
 - Network visualization using igraph
 
-![igraph network visualization](igraph_network.svg)
+<p align="center">
+  <img src="igraph_network.svg" />
+</p>
+
 
 - Network visualization using netbiov (n R package for visualizing large network data in biology and medicine)
 
-![netbiov network visualization](netbiov_network.svg)
+<p align="center">
+  <img src="netbiov_network.svg" />
+</p>
